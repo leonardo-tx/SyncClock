@@ -13,6 +13,6 @@ The program needs to be open for auto sync to work.
 
 ![Main menu image](images/main-menu.png?raw=true)
 
-### Supported languages
+## Supported languages
 * English
 * Portuguese (pt-BR)

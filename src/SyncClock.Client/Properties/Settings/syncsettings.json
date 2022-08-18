@@ -1,0 +1,11 @@
+{
+  "SyncConfiguration": {
+    "NtpServers": [
+      "time.windows.com",
+      "time.nist.gov",
+      "time.google.com",
+      "time.cloudflare.com"
+    ],
+    "SyncTime": 3600000
+  }
+}

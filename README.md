@@ -1,4 +1,6 @@
 # SyncClock
+[![.NET](https://github.com/leonardo-tx/SyncClock/actions/workflows/dotnet.yml/badge.svg)](https://github.com/leonardo-tx/SyncClock/actions/workflows/dotnet.yml)
+
 SyncClock is a console application for Windows that automatically synchronizes 
 the computer's time.
 
